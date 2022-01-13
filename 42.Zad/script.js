@@ -1,4 +1,4 @@
-//  Metoda reduce()
+//  Metoda reduce();
 
 const array1 = [3, 2, 1, 4, 5, 6];
 const tab1 = array1.reduce
