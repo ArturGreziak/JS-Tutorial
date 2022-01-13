@@ -1,4 +1,4 @@
-// Metoda fill
+// Metoda fill()
 
 const tab = [0, 1, 2, 3, 4];
 
