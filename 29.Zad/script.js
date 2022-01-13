@@ -1,4 +1,4 @@
-// Pętla for of
+// Pętla for of;
 
 // for(variable of object){
 //     statement;
