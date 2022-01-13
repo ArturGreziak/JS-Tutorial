@@ -1,4 +1,4 @@
-// Operatory logiczne
+// Operators logiczne
 
 let a = 1;
 let b = 2;
